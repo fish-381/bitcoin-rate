@@ -1,0 +1,9 @@
+to use the index.html 
+
+for index.html:
+start vsc and install live server on it and open folder you have this in and with this right click on it a run with live server and flow the stapes bellow 
+and watch it run 
+type the amount you want to the bitcoin rate to drop bye 
+and click on the button to ask for the math to start 
+enjoy the work that is done 
+it will alurt you and play the sound if you wanted 
